@@ -6,7 +6,7 @@ This is a beginner-level machine learning project that classifies the Iris datas
 ## Project Overview
 
 - **Model**: Support Vector Machine (SVM)
-- **Dataset**: Iris dataset from `sklearn.datasets`
+- **Dataset**: Iris dataset from `sklearn.datasets` || [from here](https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/0e7a9b0a5d22642a06d3d5b9bcbad9890c8ee534/iris.csv)  || and i have included in my repo as well
 - **Accuracy**: 96.67%
 - **Libraries Used**: `scikit-learn`, `matplotlib`, `seaborn`, `pandas`
 
